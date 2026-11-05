@@ -1,0 +1,4 @@
+oziq-ovqat 150000
+transport 30000
+internet 100000
+kitob 80000
